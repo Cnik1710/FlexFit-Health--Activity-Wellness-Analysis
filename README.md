@@ -55,14 +55,14 @@ Using Excel, Power Query, and Power BI, the project transforms raw activity data
   * **Excel**
       * Data cleaning & preprocessing
 
-    * **PowerQuery** 
+  * **PowerQuery** 
       * ETL transformations
 
-    * **PowerBI**
+  * **PowerBI**
       * Visualization, DAX measures & dashboard design
       * DAX – Calculated measures and time intelligence
 
-    * **PowerPoint**
+   * **PowerPoint**
       * Presentation and final dashboard snapshots
 
 ---
