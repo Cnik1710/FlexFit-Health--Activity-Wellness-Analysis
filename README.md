@@ -1,4 +1,4 @@
-# FlexFit-Health---Activity-Wellness-Analysis
+# FlexFit-Health--Activity-Wellness-Analysis
  ---
 ## 🎯 Objective
 Analyze and interpret FlexFit Health’s wearable activity data to uncover actionable insights that drive user engagement, product optimization, and wellness outcomes.
