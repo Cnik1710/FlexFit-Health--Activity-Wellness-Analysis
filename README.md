@@ -130,7 +130,7 @@ This project analyzes daily user-level activity data from **New York City reside
 ![image_alt](https://github.com/Cnik1710/FlexFit-Health--Activity-Wellness-Analysis/blob/1f12bdde4be1cf5b49d4e20f42c6fd290bb4ce6b/05.%20FlexFit%20Health%20-%20Activity%20%26%20Wellness%20Analysis%20(1)%20Dashboard.png)
 
 ### Activity Performance
-![image_alt]()
+![image_alt](https://github.com/Cnik1710/FlexFit-Health--Activity-Wellness-Analysis/blob/0dbed7cc30f0466b1137d92c4c4932653a48b6ea/06.%20FlexFit%20Health%20-%20Activity%20%26%20Wellness%20Analysis%20(2)%20Dashboard.png)
 
 ---
  
