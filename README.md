@@ -52,35 +52,35 @@ Using **Excel, Power Query, and Power BI,** the project transforms raw activity 
 
 ## 💻 Tech Stack    
 ### **Tools:**
-  * **Excel**
+  * **Excel:**
       * Data cleaning & preprocessing
-  * **PowerQuery** 
+  * **PowerQuery:** 
       * ETL transformations
-  * **PowerBI**
+  * **PowerBI:**
       * Visualization, DAX measures & dashboard design
       * DAX – Calculated measures and time intelligence
-   * **PowerPoint**
+   * **PowerPoint:**
       * Presentation and final dashboard snapshots
 ---
         
 ## 📈 Methodology & Analysis  
 ### **Prepare, Process & Analytical Approach:** 
-  * **Data Preparation & Cleaning**
+  * **Data Preparation & Cleaning:**
     * Handled missing and inconsistent activity logs.
     * Standardized numeric fields and validated record accuracy.
     * Merged datasets via **User ID** to build a unified analytical model.
-  * **Data Modeling & Integration**
+  * **Data Modeling & Integration:**
     * Established **User → Date → Activity** relationships.
     * Ensured **one-to-many integrity** (1 user → many activity records).
-  * **Feature Engineering**
+  * **Feature Engineering:**
     * Derived new measures: **Active Minutes, Engagement Type, and Untracked Distance**.
     * Split **Address → Neighborhood** using Power Query for location insights.
-  * Visualization Design
+  * **Visualization Design:**
     * Built two interactive dashboards:
         * Engagement Overview
         * Activity Performance
     * Applied synchronized **slicers** for Age Group, User, and Timeframe filters.
-  * Data Validation & Formatting
+  * **Data Validation & Formatting:**
     * Verified data consistency across all relationships.
     * Standardized **date formats, distance units (KM), and column names** for Power BI readiness.
 
